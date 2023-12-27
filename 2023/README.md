@@ -1,5 +1,7 @@
 # .NET Conf Manila, Philippines 2023
 Join us on **13 January 2024 for a FREE Online event** to inspire, learn and deep dive into .NET Technologies. In this event, we will be inviting experts and MVPs to present technical sessions on .NET Technologies and its capabilities.
+![Event - dotnet Conf 2023 Banner](https://github.com/rijwanansari/dotnetconf/assets/25387035/701699a0-3610-42e0-b98f-fedaa2b66201)
+
 
 # Introduction 
 
