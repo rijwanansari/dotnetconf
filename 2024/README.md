@@ -1,5 +1,7 @@
 ## .NET Conf 2024 - Cloud Experts Group
 The biggest .NET virtual event is back, celebrating 14 years of bringing developers together from across the globe! 🌍 Whether you're a seasoned .NET pro or just getting started, this is the event you can't afford to miss.
+![Event_Banner_All_Speakers](https://github.com/user-attachments/assets/0c671da7-0655-4737-b8bf-74aa90e9fa1f)
+
 ## 🚀 Get Ready for .NET Conf 2024! 🎉
 The biggest .NET virtual event is back, celebrating 14 years of bringing developers together from across the globe! 🌍 Whether you're a seasoned .NET pro or just getting started, this is the event you can't afford to miss.
 <br/> 📅 Event Dates: 23rd Nov, 2024 <br/>
