@@ -1,4 +1,6 @@
 ## .NET Conf 2025 - Next Gen .NET: Build Smarter, Run Faster
+<img width="1908" height="1072" alt="528611276-e1b32b19-2b20-4af2-a0ca-e38dc5c3d94d" src="https://github.com/user-attachments/assets/f021f693-26e3-46cb-bd81-3e6f044beca6" />
+
 Welcome to .NET Conf 2025 — the biggest global virtual conference dedicated to .NET developers, enthusiasts, and IT professionals. This year marks a special milestone as we celebrate the 15th anniversary of .NET Conf, continuing the tradition of delivering world-class online learning experiences.
 Since its inception, .NET Conf has remained fully virtual and 100% free, making it accessible to everyone — regardless of location. Over the years, its community and reach have grown exponentially. Today, .NET Conf attracts over 100,000 live attendees from across the globe and inspires hundreds of local events organized by user groups and technology communities worldwide.
 ## .NET 10 Launch Conference – “Next Gen .NET: Build Smarter, Run Faster”
